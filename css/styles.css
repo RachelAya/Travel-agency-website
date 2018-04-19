@@ -6,20 +6,20 @@ p.tropical{
 
 }
 h1.tropical{
- color: #f7325e
+ color: #f7325e;
 
 }
 h2.tropical{
- color:  #f7325e
+ color:  #f7325e;
 
 }
 
 h3.tropical{
-  color:#f7325e
+  color:#f7325e;
 
 }
 h4.tropical{
-  color:#f7325e
+  color:#f7325e;
 
 }
 body{
@@ -30,4 +30,11 @@ font-size:18px;
   font-style: italic;
   color: violet;
   font-weight: bold;
+}
+
+.sidebar{
+  width:auto;
+  float:right;
+  background-color: yellow;
+
 }
