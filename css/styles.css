@@ -1,0 +1,33 @@
+.tropical{
+  font-family: fantasy;
+}
+p.tropical{
+  color:  #7dc410;
+
+}
+h1.tropical{
+ color: #f7325e
+
+}
+h2.tropical{
+ color:  #f7325e
+
+}
+
+h3.tropical{
+  color:#f7325e
+
+}
+h4.tropical{
+  color:#f7325e
+
+}
+body{
+  background-color: grey;
+font-size:18px;
+}
+.popular{
+  font-style: italic;
+  color: violet;
+  font-weight: bold;
+}
