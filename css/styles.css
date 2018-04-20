@@ -7,23 +7,24 @@ p.tropical{
 }
 h1.tropical{
  color: #f7325e;
-
+ font-size: 19px;
 }
 h2.tropical{
  color:  #f7325e;
-
+ font-size: 19px;
 }
 
 h3.tropical{
   color:#f7325e;
+  font-size: 19px;
 
 }
 h4.tropical{
   color:#f7325e;
-
+  font-size: 19px;
 }
 body{
-  background-color: grey;
+  background-color: steelblue;
 font-size:18px;
 }
 .popular{
@@ -31,9 +32,7 @@ font-size:18px;
   color: violet;
   font-weight: bold;
 }
-img{
-  float:left;
-}
+
 .sidebar{
   width:auto;
   float:right;
