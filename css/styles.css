@@ -31,7 +31,9 @@ font-size:18px;
   color: violet;
   font-weight: bold;
 }
-
+img{
+  float:left;
+}
 .sidebar{
   width:auto;
   float:right;
